@@ -1,9 +1,9 @@
-****************
+
 * Phrase Coder
 * Personal Project
 * December 27, 2016
 * Malik Herring
-**************** 
+
 
 OVERVIEW:
 
@@ -43,4 +43,4 @@ DISCUSSION:
  and output strings.
  
  
-----------------------------------------------------------------------------
+
